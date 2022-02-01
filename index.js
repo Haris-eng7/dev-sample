@@ -2,6 +2,7 @@ let test = "developer hello world";
 
 const customPrice = 20;
 let nam = "haris";
+let finalName = "NEw Dev";
 
 console.log(nam);
 
