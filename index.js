@@ -1,3 +1,6 @@
+let test = "developer";
+
+const customPrice = 20;
 let nam = "haris";
 
 console.log(nam);
